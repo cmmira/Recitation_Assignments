@@ -1,5 +1,5 @@
 
-#Recitation_Assignments
+# Recitation_Assignments
 This C++ program is a combination of 3 recitation assignments that introduced important C++ concepts for the course project of encryption. The program has each function for each assignment divided using input from the command line argument:
 - “r1”
 - “r2”
